@@ -5,3 +5,5 @@
 * [2] ALI HAMZA, "Dream Conscious AI Chatbot Dashboard Website UIUX" https://www.behance.net/gallery/196426517/Dream-Conscious-AI-Chatbot-Dashboard-Website-UIUX
 * [3] 7th Pillar Infotech. "AI chatbot design - Woww" https://www.behance.net/gallery/194734363/AI-chatbot-design-Woww
 
+## Virtual Try-on
+* [1] Syahrul Falah, Vektora Studio, Achmad Zaini, "VirtualFit - Virtual Try On Spatial UI Concept" https://www.behance.net/gallery/173013189/VirtualFit-Virtual-Try-On-Spatial-UI-Concept
