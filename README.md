@@ -12,4 +12,7 @@
 
 ## Ecommerce
 * [1] Md. Rakib Hasan, "Ecommerce Website Design" https://www.behance.net/gallery/196361949/Ecommerce-Website-Design
+* [2] Foysal Khan, "Ecommerce Fashion Website-UI/UX Design" https://www.behance.net/gallery/192283391/Ecommerce-Fashion-Website-UIUX-Design
+* [3] Rashed Milon, "Ecommerce Website Design" https://www.behance.net/gallery/193991945/Ecommerce-Website-Design
+* 
 
