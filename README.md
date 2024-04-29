@@ -17,4 +17,7 @@
 * [4] Laurena Burner, " ELISA - Ecommerce Website Design" https://www.behance.net/gallery/189553013/ELISA-Ecommerce-Website-Design
 * [5] Mehwish Designer, "Fashion - Ecommerce Website Design" https://www.behance.net/gallery/195010449/Fashion-Ecommerce-Website-Design
 * [6] MD Sumon Mia, "ECOMMERCE WEBSITE" https://www.behance.net/gallery/165394187/ECOMMERCE-WEBSITE
+* [7] Nazma Parvin, "Ecommerce Web Homepage Mockup PSD Template Design" https://www.behance.net/gallery/55046629/Ecommerce-Web-Homepage-Mockup-PSD-Template-Design
+* [8] 
+
 
